@@ -195,7 +195,7 @@ const About = () => {
           href="#get-started"
           className="inline-block bg-white text-yellow-500 font-semibold py-4 px-8 rounded-lg shadow-lg transition-all text-xl"
         >
-          Get Started Now
+          Get Started later
         </motion.a>
       </motion.div>
 
