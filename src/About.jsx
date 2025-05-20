@@ -112,7 +112,7 @@ const About = () => {
                 href="#get-started"
                 className="inline-block bg-yellow-500 hover:bg-yellow-600 text-white font-semibold py-3 px-6 rounded-lg shadow transition-all"
               >
-                Get Started
+                Get Started 
               </motion.a>
             </div>
           </div>
@@ -184,7 +184,7 @@ const About = () => {
         className="w-full bg-yellow-500 py-16 px-4 text-center"
       >
         <h2 className="text-4xl md:text-5xl font-extrabold text-white mb-6">
-          Join Our Community of Smart Cooks
+          Join Our Community of Smart Cooks and their style
         </h2>
         <p className="text-xl sm:text-2xl text-white mb-8">
           Become part of a growing community of moms who make cooking easier and more enjoyable every day.
@@ -195,7 +195,7 @@ const About = () => {
           href="#get-started"
           className="inline-block bg-white text-yellow-500 font-semibold py-4 px-8 rounded-lg shadow-lg transition-all text-xl"
         >
-          Get Started later
+          Get Started 
         </motion.a>
       </motion.div>
 
