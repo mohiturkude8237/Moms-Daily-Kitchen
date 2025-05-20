@@ -184,7 +184,7 @@ const About = () => {
         className="w-full bg-yellow-500 py-16 px-4 text-center"
       >
         <h2 className="text-4xl md:text-5xl font-extrabold text-white mb-6">
-          Join Our Community of Smart Cooks and their style
+          Join Our Community of Smart Cooks
         </h2>
         <p className="text-xl sm:text-2xl text-white mb-8">
           Become part of a growing community of moms who make cooking easier and more enjoyable every day.
